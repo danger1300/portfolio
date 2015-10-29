@@ -1,0 +1,84 @@
+.fixed-nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  background-color: grey;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white;
+  font-weight: 700;
+}
+
+.container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+}
+
+.btn-default {
+  background-color: black;
+  color: white;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+#Home {
+  padding-top: 50px;
+  height: 700px;
+  color: white;
+  background-image: url(http://desktopbackgrounds4u.com/wp-content/gallery/office-background-images/Grey%20Background%20With%20Office%20Table.jpg);
+  background-size: Cover;
+}
+
+#About {
+  padding-top: 50px;
+  height: 700px;
+  color: white;
+  background-image: url(http://4.bp.blogspot.com/-1Ikd9N4yfDM/Uh9qiUTuFQI/AAAAAAAAGfE/OxTq3MOCmdM/s1600/Free-Background-Graphics2.jpg);  
+  background-size: Cover;
+}
+
+#Portfolio {
+  padding-top: 50px;
+  height: 700px;
+  color: white;
+  background-color: #333333;
+  background-size: cover;
+}
+
+#Contact {
+  padding-top: 50px;
+  height: 700px;
+  color: white;
+  background-image: url(http://previews.123rf.com/images/lightwise/lightwise1303/lightwise130300011/18283446-Global-hotel-service-concept-with-a-human-hand-ringing-a-bell-on-a-blue-world-map-background-as-a-ho-Stock-Photo.jpg);
+  background-size: Cover;
+}
+
+#Social {
+  list-style-type: none;
+}
+
+#Footer {
+  padding-top: 13px;
+  height: 50px;
+  background-color: grey;
+  color: white;
+}
